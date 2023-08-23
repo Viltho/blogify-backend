@@ -64,7 +64,7 @@ server.post("/getUserIdByEmail", getUserIdByEmailHandler);
 
 // Functions Handlers
 
-export default function startHandler(req, res) {
+function startHandler(req, res) {
   res.send("Hello from the Start route");
 }
 
