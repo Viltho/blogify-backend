@@ -1,7 +1,7 @@
 {
   "name": "blog-post-back-end",
   "version": "1.0.0",
-  "description": "",
+  "description": "To begin working on the backend side of a project, follow these steps:",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
@@ -31,5 +31,6 @@
   },
   "engines": {
     "node": "18.x"
-  }
+  },
+  "devDependencies": {}
 }
